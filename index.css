@@ -1,0 +1,71 @@
+body {
+ background-image: url(https://nayainsurancetax.com/wp-content/uploads/2019/01/insurance-quote-form-background-fontana-ca.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+
+.container {
+	margin-top: 30px;
+	border: 100px;
+    
+}
+.row {
+	margin: auto;
+	width: 700px;
+	padding: 40px;
+	background-color: rgb(199, 207, 205);
+ border-style:solid;
+ border-color:#252525;
+ box-shadow: 4px 6px 12px 0px;
+ border-width: thin;
+ border-radius: 20px;
+}
+.registration-form {
+	width: 900px;
+  margin: auto;
+}
+
+.title {
+	text-align: center;
+	color: #000000;
+}
+
+.submit-btn {
+	text-align: center;
+
+}
+.btn {
+	background-color: transparent;
+	color: black;
+	border-radius: 22px!important;
+    text-transform: uppercase;
+    font-weight: 500!important;
+	border: 1px solid white;
+	padding: 10px;
+	letter-spacing: 0.5px;
+    /* background: #fff!important; */
+    /* color: #0c2648!important; */
+     border-color: #0c2648!important; 
+	
+  }
+  
+  .btn:hover {
+	background-color: rgb(5, 23, 187);
+	
+	cursor: pointer
+  }
+  .display-3  {
+  margin: auto;
+	width: 700px;
+	height: 100px;
+	background-color: aliceblue;
+	/* color: rgb(235, 177, 101); */
+	padding: 4px;
+ border-style:solid;
+ border-color:#287EC7;;
+ box-shadow: 4px 6px 12px 0px;
+ border-width: thin;
+ border-radius: 20px;
+
+  }
