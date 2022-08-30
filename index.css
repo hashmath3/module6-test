@@ -20,7 +20,7 @@ background-size:cover;
 	background-color: rgb(199, 207, 205);
  border-style:solid;
  border-color:#252525;
- box-shadow: 4px 6px 12px 0px;
+ box-shadow: wheat 6px 1px 7px 0px;
  border-width: thin;
  border-radius: 20px;
 }
@@ -67,7 +67,7 @@ background-size:cover;
 	padding: 4px;
  border-style:solid;
  border-color:#287EC7;;
- box-shadow: 4px 6px 12px 0px;
+ box-shadow: wheat 6px 1px 7px 0px;
  border-width: thin;
  border-radius: 20px;
 
@@ -79,8 +79,12 @@ background-size:cover;
         padding: 5px;
         width: 70%;
         text-align: center;
-    } .container,.row  , .col-md-6, .col-12 {
+    } .container,.row  ,  .col-12 {
       width: 100%;
       margin-top: 0;
+    }
+    .col-md-6{
+        width: 50%;
+        padding: auto;
     }
   }
