@@ -1,7 +1,10 @@
 body {
  background-image: url(https://nayainsurancetax.com/wp-content/uploads/2019/01/insurance-quote-form-background-fontana-ca.jpg);
- background-repeat: no-repeat;
- background-size: cover;
+ background-repeat:no-repeat;
+
+
+background-size:cover;
+
 }
 
 
@@ -68,4 +71,16 @@ body {
  border-width: thin;
  border-radius: 20px;
 
+  }
+
+  @media screen and (max-width: 600px) {
+    .display-3{
+        margin-top: 10px;
+        padding: 5px;
+        width: 70%;
+        text-align: center;
+    } .container,.row  , .col-md-6, .col-12 {
+      width: 100%;
+      margin-top: 0;
+    }
   }
